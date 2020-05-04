@@ -33,6 +33,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 }
 
+// TEST
 //uploadArchives {
 //    repositories.mavenDeployer {
 //        def mavenDirPath = file('E:\\android-source-code\\nvb-demo\\mvb')
