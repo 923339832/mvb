@@ -33,14 +33,14 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 }
 
-uploadArchives {
-    repositories.mavenDeployer {
-        def mavenDirPath = file('E:\\android-source-code\\nvb-demo\\mvb')
-        repository(url: "file://${mavenDirPath.absolutePath}")
-        pom.project {
-            groupId "com.github.mrlao"
-            artifactId "mvb"
-            version "1.0.0"
-        }
-    }
-}
+//uploadArchives {
+//    repositories.mavenDeployer {
+//        def mavenDirPath = file('E:\\android-source-code\\nvb-demo\\mvb')
+//        repository(url: "file://${mavenDirPath.absolutePath}")
+//        pom.project {
+//            groupId "com.github.mrlao"
+//            artifactId "mvb"
+//            version "1.0.0"
+//        }
+//    }
+//}
