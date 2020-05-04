@@ -3,9 +3,9 @@ package com.example.nvb.business;
 import android.widget.RadioGroup;
 
 import com.example.nvb.R;
-import com.mrlao.nvb.BaseFragmentBusiness;
-import com.mrlao.nvb.NotNeedDataHolder;
-import com.mrlao.nvb.NotNeedViewHolder;
+import com.mrlao.mvb.BaseFragmentBusiness;
+import com.mrlao.mvb.NotNeedDataHolder;
+import com.mrlao.mvb.NotNeedViewHolder;
 
 public class MainBottomMenuBusiness extends BaseFragmentBusiness<NotNeedViewHolder, NotNeedDataHolder> {
     @Override

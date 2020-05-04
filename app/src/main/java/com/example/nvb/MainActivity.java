@@ -6,14 +6,13 @@ import com.example.nvb.business.MyBusiness;
 import com.example.nvb.business.NewsBusiness;
 import com.example.nvb.business.NewsClickBusiness;
 import com.example.nvb.business.ShopBusiness;
-import com.mrlao.nvb.BaseActivity;
-import com.mrlao.nvb.BaseFragment;
-import com.mrlao.nvb.BaseFragmentBusiness;
-import com.mrlao.nvb.annotation.Business;
-import com.mrlao.nvb.annotation.FragmentLayoutBusiness;
-import com.mrlao.nvb.annotation.Fragments;
-import com.mrlao.nvb.annotation.Order;
-import com.mrlao.nvb.annotation.ViewLayout;
+import com.mrlao.mvb.BaseActivity;
+import com.mrlao.mvb.BaseFragment;
+import com.mrlao.mvb.annotation.Business;
+import com.mrlao.mvb.annotation.FragmentLayoutBusiness;
+import com.mrlao.mvb.annotation.Fragments;
+import com.mrlao.mvb.annotation.Order;
+import com.mrlao.mvb.annotation.ViewLayout;
 
 @ViewLayout(R.layout.activity_main)
 @Fragments(fragmentContainerId = R.id.fragment_container, fragmentCacheSize = 3, selectFragment = 1)

@@ -4,8 +4,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import com.example.nvb.R;
-import com.mrlao.nvb.BaseViewHolder;
-import com.mrlao.nvb.annotation.ViewInject;
+import com.mrlao.mvb.BaseViewHolder;
+import com.mrlao.mvb.annotation.ViewInject;
 
 /**
  * 登陆验证码ViewHolder

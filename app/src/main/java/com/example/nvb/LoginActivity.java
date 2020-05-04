@@ -2,9 +2,9 @@ package com.example.nvb;
 
         import com.example.nvb.business.LoginBusiness;
         import com.example.nvb.business.VerifyCodeBusiness;
-        import com.mrlao.nvb.BaseActivity;
-        import com.mrlao.nvb.annotation.Business;
-        import com.mrlao.nvb.annotation.ViewLayout;
+        import com.mrlao.mvb.BaseActivity;
+        import com.mrlao.mvb.annotation.Business;
+        import com.mrlao.mvb.annotation.ViewLayout;
 
 @ViewLayout(R.layout.activity_login)
 @Business(business = {

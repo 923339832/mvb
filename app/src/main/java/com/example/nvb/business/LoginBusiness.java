@@ -7,8 +7,8 @@ import com.example.nvb.MainActivity;
 import com.example.nvb.R;
 import com.example.nvb.dataholder.LoginDataHolder;
 import com.example.nvb.viewholder.LoginViewHolder;
-import com.mrlao.nvb.BaseBusiness;
-import com.mrlao.nvb.annotation.OnClickListener;
+import com.mrlao.mvb.BaseBusiness;
+import com.mrlao.mvb.annotation.OnClickListener;
 
 /**
  * 登陆业务

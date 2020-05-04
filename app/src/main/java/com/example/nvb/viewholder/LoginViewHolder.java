@@ -3,8 +3,8 @@ package com.example.nvb.viewholder;
 import android.widget.EditText;
 
 import com.example.nvb.R;
-import com.mrlao.nvb.BaseViewHolder;
-import com.mrlao.nvb.annotation.ViewInject;
+import com.mrlao.mvb.BaseViewHolder;
+import com.mrlao.mvb.annotation.ViewInject;
 
 /**
  * 用户登陆控件ViewHolder

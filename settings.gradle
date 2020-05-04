@@ -1,2 +1,2 @@
 rootProject.name='nvb-demo'
-include ':app', ':nvb'
+include ':app', ':mvb'

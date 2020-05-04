@@ -6,7 +6,7 @@ import android.widget.Toast;
 
 import com.example.nvb.dataholder.LoginDataHolder;
 import com.example.nvb.viewholder.VerifyCodeViewHolder;
-import com.mrlao.nvb.BaseBusiness;
+import com.mrlao.mvb.BaseBusiness;
 
 /**
  * 验证码业务

@@ -6,9 +6,9 @@ import android.widget.Toast;
 
 import com.example.nvb.R;
 import com.example.nvb.dataholder.MainActivityDataHolder;
-import com.mrlao.nvb.BaseBusiness;
-import com.mrlao.nvb.NotNeedViewHolder;
-import com.mrlao.nvb.annotation.OnItemClickListener;
+import com.mrlao.mvb.BaseBusiness;
+import com.mrlao.mvb.NotNeedViewHolder;
+import com.mrlao.mvb.annotation.OnItemClickListener;
 
 public class NewsClickBusiness extends BaseBusiness<NotNeedViewHolder, MainActivityDataHolder> {
 

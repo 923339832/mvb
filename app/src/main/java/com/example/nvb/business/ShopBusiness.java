@@ -1,8 +1,8 @@
 package com.example.nvb.business;
 
-import com.mrlao.nvb.BaseBusiness;
-import com.mrlao.nvb.NotNeedDataHolder;
-import com.mrlao.nvb.NotNeedViewHolder;
+import com.mrlao.mvb.BaseBusiness;
+import com.mrlao.mvb.NotNeedDataHolder;
+import com.mrlao.mvb.NotNeedViewHolder;
 
 
 public class ShopBusiness extends BaseBusiness<NotNeedViewHolder, NotNeedDataHolder> {
